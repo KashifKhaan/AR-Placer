@@ -4,7 +4,6 @@ AR-Placer is an exciting Android AR (Augmented Reality) application that combine
 
 Designed to be user-friendly, AR-Placer utilizes ARCore and Sceneform libraries to seamlessly integrate virtual wolves into your real-world surroundings. Simply launch the app, point your device's camera at a flat surface, and tap to place a lifelike 3D model of a wolf. Once placed, you can freely interact with the model using intuitive gestures such as pinch, rotate, and drag.
 
-
 ## Features
 
 - Augmented reality experience: Users can view and interact with 3D models of wolves in their real-world environment.
